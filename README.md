@@ -1,3 +1,4 @@
 # HelloWorld
 
-*basic android program*
+*default android program*
+ with modified UI
